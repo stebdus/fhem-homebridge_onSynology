@@ -1,0 +1,1 @@
+# fhem-homebridge_onSynology
